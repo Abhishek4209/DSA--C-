@@ -22,6 +22,5 @@ int main() {
     } else {
         cout << "There is a tie among the numbers.";
     }
-
     return 0;
 }
